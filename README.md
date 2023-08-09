@@ -1,6 +1,8 @@
-# Atari Breakout Reinforcement Learning
+# Atari Breakout🥎 Reinforcement Learning :robot:
 
-Description of your project.
+This is a classic Atari Breakout game built using PyGame. The reinforcement learning task is carried out by QLearning Network in PyTorch. The Agent gets positive points if it breaks a brick or reflects ball, and negative reward if it misses the ball. You can tune hyperparameters like Rewards, Nodes in hidden Layers, Learning rate etc.
+
+I have built another repo as well where two agents play Air-Hockey with each other..Do check that out too :grin::grin:
 
 ## Table of Contents
 
