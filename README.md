@@ -8,8 +8,6 @@ I have built another repo as well where two agents play Air-Hockey with each oth
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
-- [License](#license)
 
 ## Installation
 
